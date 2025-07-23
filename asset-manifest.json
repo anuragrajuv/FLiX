@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FLiX/static/css/main.dc080bcc.css",
+    "main.js": "/FLiX/static/js/main.f1f5f135.js",
+    "index.html": "/FLiX/index.html",
+    "main.dc080bcc.css.map": "/FLiX/static/css/main.dc080bcc.css.map",
+    "main.f1f5f135.js.map": "/FLiX/static/js/main.f1f5f135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc080bcc.css",
+    "static/js/main.f1f5f135.js"
+  ]
+}
